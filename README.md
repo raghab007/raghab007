@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghab007&label=Profile%20views&color=0e75b6&style=flat" alt="raghab007" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot, DSA and React**
+- 🌱 I’m currently learning **Java, DSA and MERN Stack**
 
 - 📫 How to reach me **pokhrelraghab3@gmail.com**
   
