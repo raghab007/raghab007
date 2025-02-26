@@ -60,8 +60,5 @@
   <li>📦 Microservices architecture for scalable application development.</li>
 </ul>
 
-<h3 align="left">📈 GitHub Contribution Graph:</h3>
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=raghab007&theme=react-dark" alt="GitHub Contribution Graph"/>
-</p>
+
 
