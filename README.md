@@ -21,8 +21,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot" />
-  <img src="https://img.icons8.com/color/48/000000/spring-security.png" width="40" alt="Spring Security" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-rest-api-interconnected-web-services-in-a-service-oriented-architecture-logo-color-tal-revivo.png" width="40" alt="REST API" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
