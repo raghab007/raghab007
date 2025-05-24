@@ -53,9 +53,8 @@
 
 ### 🔭 Currently Exploring
 
-- 🎥 **Video upload & streaming** with Spring Boot  
 - ☁️ **Cloud platforms** and **DevOps tools** (CI/CD, Docker, etc.)  
-- 🧩 **Microservices architecture** for scalable backends  
+- 🧩 **Microservices architecture** for scalable backends
 
 ---
 
