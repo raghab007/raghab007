@@ -64,7 +64,7 @@
   <a href="https://www.linkedin.com/in/raghab-pokhrel-19753926a/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/raghab_pokhrel" target="_blank">
+  <a href="https://twitter.com/PRaghab007" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40" alt="Twitter"/>
   </a>
   <a href="https://github.com/raghab007" target="_blank">
