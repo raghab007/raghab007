@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 Final year Computer Science student at Islington College  
-- 🌱 Currently learning **Java, Spring Boot, React, and DevOps**  
+- 🌱 Currently Working on ** Python, NextJs, React, and Java
 - 💻 I regularly solve problems on [LeetCode](https://leetcode.com/u/Raghab_Pokhrel/)  
 - 📬 Reach me at: [pokhrelraghab3@gmail.com](mailto:pokhrelraghab3@gmail.com)
 
@@ -32,14 +32,6 @@
 
 ---
 
-### 📌 Projects
-
-- 🛒 **E-Commerce Web App** – Built with Spring Boot, with features like user login, product listing & management  
-- 🎓 **Shikshyalaya** – An e-learning platform to provide low-cost or free courses to students in Nepal  
-- 💰 **Expense Tracker** – Desktop app built with .NET Blazor MAUI for managing personal finances
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -53,8 +45,9 @@
 
 ### 🔭 Currently Exploring
 
-- ☁️ **Cloud platforms** and **DevOps tools** (CI/CD, Docker, etc.)  
-- 🧩 **Microservices architecture** for scalable backends
+- **Cloud platforms** and **DevOps tools** (CI/CD, Docker, etc.)  
+- **Microservices architecture** for scalable backends
+- **Python and Data Science
 
 ---
 
