@@ -11,7 +11,6 @@
 
 - 🎓 Final year Computer Science student at Islington College  
 - 🌱 Currently Working on  Python, NextJs, React, and Java
-- 💻 I regularly solve problems on [LeetCode](https://leetcode.com/u/Raghab_Pokhrel/)  
 - 📬 Reach me at: [pokhrelraghab3@gmail.com](mailto:pokhrelraghab3@gmail.com)
 
 ---
